@@ -1,0 +1,11 @@
+@import "../../../style/variables.scss";
+
+.process-view-container {
+  width: 100%;
+  min-height: calc(100vh - 250px);
+
+  canvas {
+    width: 100%;
+    display: block;
+  }
+}

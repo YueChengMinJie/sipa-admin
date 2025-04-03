@@ -1,0 +1,12 @@
+:root {
+  --su-text-color-default: #000000;
+  --su-text-color-primary: #ffffff;
+
+  --su-comp-color-default: #a1a3a6;
+  --su-comp-color-primary: #009ad6;
+
+  --su-radius-default: 5px;
+}
+
+@import "../components/button/style/index.scss";
+@import "../components/process-preview/style/index.scss";

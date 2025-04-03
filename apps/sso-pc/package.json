@@ -1,0 +1,46 @@
+{
+  "name": "sso-pc",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vue-cli-service serve --mode local",
+    "build:dev": "vue-cli-service build --mode dev",
+    "build:fat": "vue-cli-service build --mode fat",
+    "build": "vue-cli-service build --mode prod",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "core-js": "^3.8.3",
+    "element-ui": "^2.15.13",
+    "js-cookie": "^2.2.1",
+    "normalize.css": "^8.0.1",
+    "nprogress": "^0.2.0",
+    "qs": "^6.11.0",
+    "vue": "^2.6.14",
+    "vue-router": "^3.5.1",
+    "sipa-boot-sdk-js": "workspace:"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.21.4",
+    "@babel/eslint-parser": "^7.12.16",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "autoprefixer": "^10.4.13",
+    "compression-webpack-plugin": "^10.0.0",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-vue": "^8.0.3",
+    "postcss": "^8.4.18",
+    "prettier": "^2.4.1",
+    "sass": "^1.53.0",
+    "sass-loader": "^13.0.2",
+    "vue-template-compiler": "^2.6.14",
+    "webpack": "^5.74.0"
+  },
+  "engines": {
+    "node": ">= 16.15.1"
+  }
+}

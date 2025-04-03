@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+  min-width: 992px;
+  font-family: Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, SimSun, sans-serif;
+  font-weight: 400;
+  background: #f7f7f7;
+}
+
+#app {
+  width: 100%;
+  height: 100%;
+}
+
+#nprogress .bar {
+  background: #409eff !important; //自定义颜色
+}
+
+// 背景色
+#app {
+  background-color: #f0f2f5;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+// 错误提醒url的样式
+.app-code {
+  background-color: #f9fafc;
+  padding: 0 4px;
+  border: 1px solid #eaeefb;
+  border-radius: 4px;
+}

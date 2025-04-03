@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>企业主体</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="管理员管理" transform="translate(-290.000000, -37.000000)">
+            <g id="编组-5" transform="translate(202.000000, 28.000000)">
+                <path d="M0,32 L0,1.75437519 C0.110819681,0.58479173 0.870009271,0 2.27756877,0 C3.68512827,0 39.1374913,0 108.634658,0 C109.544886,0.0747698176 110,0.659561548 110,1.75437519 C110,2.84918883 110,12.9310638 110,32" id="路径-14" stroke="#DADADA" stroke-linejoin="round"></path>
+                <g id="编组" transform="translate(91.000000, 12.000000)" opacity="0.4" stroke="#808080" stroke-linecap="round">
+                    <g id="关闭">
+                        <line x1="0.333333333" y1="0.338624339" x2="7.66666667" y2="7.78835979" id="直线"></line>
+                        <line x1="0.333333333" y1="0.338624339" x2="7.66666667" y2="7.78835979" id="直线" transform="translate(4.000000, 4.063492) scale(-1, 1) translate(-4.000000, -4.063492) "></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
