@@ -27,5 +27,8 @@ export default [
       dir: 'dist/',
       assetFileNames: '[name].css',
     },
+    watch: {
+      include: ['components/**/style/index.scss', 'style/index.scss'],
+    },
   },
 ];
